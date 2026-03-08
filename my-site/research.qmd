@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+## Research Overview
+A short paragraph describing your research direction and what problems you solve.
+
+## Projects
+### Project A
+- 1–2 lines on what it is
+- Your contribution
+- Link to paper/code (if any)
+
+### Project B
+...

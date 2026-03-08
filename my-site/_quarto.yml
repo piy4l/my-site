@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Souvik Das"
+  description: "PhD Student | Texas A&M University"
+  site-url: "https://piy4l.github.io"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/piy4l
+      - icon: google
+        href: https://scholar.google.com/citations?user=YOURID
+      # - icon: twitter
+      #   href: https://x.com/YOURHANDLE
+      - icon: linkedin
+        href: https://www.linkedin.com/in/souvik-das-048479153/
+  page-footer:
+    left: "©2026 Souvik Das"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true

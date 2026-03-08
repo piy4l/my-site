@@ -1,0 +1,10 @@
+---
+title: "Teaching"
+---
+
+## Teaching
+- TA, Course Name (Semester Year)
+- Guest lecture: Topic (Semester Year)
+
+## Mentoring
+- Student Name — project/topic

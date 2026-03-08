@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+- **Email:** you@tamu.edu  
+- **Office:** Building, Room  
+- **Address:** Department, Texas A&M University
+
+### Links
+- GitHub: https://github.com/YOUR-USERNAME  
+- Scholar: https://scholar.google.com/...

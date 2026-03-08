@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "TA, Course Name (Semester Year)\nGuest lecture: Topic (Semester Year)"
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Teaching",
+    "section": "",
+    "text": "TA, Course Name (Semester Year)\nGuest lecture: Topic (Semester Year)"
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching",
+    "section": "Mentoring",
+    "text": "Mentoring\n\nStudent Name — project/topic"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name, Coauthor. Paper Title. arXiv, 2025. PDF · Code"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name, Coauthor. Paper Title. arXiv, 2025. PDF · Code"
+  },
+  {
+    "objectID": "publications.html#conferences-journals",
+    "href": "publications.html#conferences-journals",
+    "title": "Publications",
+    "section": "Conferences / Journals",
+    "text": "Conferences / Journals\n\nYour Name, Coauthor. Paper Title. Venue, Year. DOI"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: you@tamu.edu\n\nOffice: Building, Room\n\nAddress: Department, Texas A&M University\n\n\nLinks\n\nGitHub: https://github.com/YOUR-USERNAME\n\nScholar: https://scholar.google.com/…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Souvik Das",
+    "section": "",
+    "text": "About\nI’m a PhD student at Texas A&M University working on the intersection of Security and High-Performance Computing.\nInterests: High-Performance Computing, Privacy & Security, Artificial Intelligence\nAdvisors: Dr. Nitesh Saxena & Dr. Ariful Azad\nEmail: souvik.das@tamu.edu\nOffice: PETR 230 | PETR 246\nDownload CV · Google Scholar · GitHub\n\n\n\n\nNews\n\nDec 2025: Started working on ___.\nNov 2025: Paper accepted at ___."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "A short paragraph describing your research direction and what problems you solve."
+  },
+  {
+    "objectID": "research.html#research-overview",
+    "href": "research.html#research-overview",
+    "title": "Research",
+    "section": "",
+    "text": "A short paragraph describing your research direction and what problems you solve."
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nProject A\n\n1–2 lines on what it is\nYour contribution\nLink to paper/code (if any)\n\n\n\nProject B\n…"
+  },
+  {
+    "objectID": "index.html#news-1",
+    "href": "index.html#news-1",
+    "title": "Souvik Das",
+    "section": "News",
+    "text": "News\n\nDec 2025: Working on ___.\nNov 2025: Submitted ___ to ___.\nOct 2025: Released code for ___."
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Souvik Das",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\nProject A: one-line impact statement. Read more →\nProject B: one-line impact statement. Read more →"
+  }
+]

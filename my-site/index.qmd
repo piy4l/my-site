@@ -1,0 +1,32 @@
+---
+title: "Souvik Das"
+page-layout: full
+toc: false
+---
+
+::: {.columns}
+
+::: {.column width="35%"}
+::: {.headshot-frame}
+![](images/headshot.jpg){.headshot-img}
+:::
+:::
+
+::: {.column width="65%"}
+### About
+
+I’m a PhD student at **Texas A&M University** working on the intersection of **Security and High-Performance Computing**.
+
+**Interests:** High-Performance Computing, Privacy & Security, Artificial Intelligence  
+**Advisors:** Dr. Nitesh Saxena & Dr. Ariful Azad  
+**Email:** [souvik.das@tamu.edu](mailto:souvik.das@tamu.edu)  
+**Office:** PETR 230 | PETR 246  
+
+[Download CV](cv.qmd) · [Google Scholar](https://scholar.google.com/citations?user=7MV40LIAAAAJ&hl=en) · [GitHub](https://github.com/piy41)
+:::
+
+:::
+
+### News
+- **Dec 2025:** Started working on ___.
+- **Nov 2025:** Paper accepted at ___.

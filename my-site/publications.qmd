@@ -1,0 +1,9 @@
+---
+title: "Publications"
+---
+
+## Preprints
+- **Your Name**, Coauthor. *Paper Title.* arXiv, 2025. [PDF](#) · [Code](#)
+
+## Conferences / Journals
+- **Your Name**, Coauthor. *Paper Title.* Venue, Year. [DOI](#)
