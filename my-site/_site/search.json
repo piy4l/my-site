@@ -4,7 +4,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "TA, Course Name (Semester Year)\nGuest lecture: Topic (Semester Year)"
+    "text": "Taught 300+ students over ~5 years, preparing them for highly competitive undergraduate admission exams (e.g., BUET and other top universities).\nCovered core subjects including Mathematics and Physics.\nDesigned structured lessons, practice problems, and exam strategies tailored to competitive testing environments.\nMentored students individually to strengthen conceptual understanding and performance under time constraints.\nStudents successfully admitted to top institutions including BUET and other leading universities in Bangladesh."
   },
   {
     "objectID": "teaching.html#teaching",
@@ -18,14 +18,14 @@
     "href": "teaching.html#mentoring",
     "title": "Teaching",
     "section": "Mentoring",
-    "text": "Mentoring\n\nStudent Name — project/topic"
+    "text": "Mentoring\n\nProvided one-on-one academic guidance to students on:\n\nproblem-solving strategies\n\nexam preparation techniques\n\nbuilding strong fundamentals in quantitative subjects"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Your Name, Coauthor. Paper Title. arXiv, 2025. PDF · Code"
+    "text": "Md. Olid Hasan Bhuiyan, Souvik Das, Shafayat Hossain Majumder, Suryadipta Majumdar, and Md. Shohrab Hossain.\nOn Detecting Malicious Code Injection by Monitoring Multi-Level Container Activities.\nIn The 14th International Conference on Cloud Computing and Services Science (CLOSER), Angers, France, May 2–4, 2024.\nPaper · DOI"
   },
   {
     "objectID": "publications.html#preprints",
@@ -60,42 +60,42 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Email: you@tamu.edu\n\nOffice: Building, Room\n\nAddress: Department, Texas A&M University\n\n\nLinks\n\nGitHub: https://github.com/YOUR-USERNAME\n\nScholar: https://scholar.google.com/…"
+    "text": "Email: souvik.das@tamu.edu\n\nOffice: PETR 230 / PETR 246\n\nAffiliation: Department of Computer Science & Engineering, Texas A&M University, 435 Nagle Street, College Station, TX 77843-3112"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Souvik Das",
     "section": "",
-    "text": "About\nI’m a PhD student at Texas A&M University working on the intersection of Security and High-Performance Computing.\nInterests: High-Performance Computing, Privacy & Security, Artificial Intelligence\nAdvisors: Dr. Nitesh Saxena & Dr. Ariful Azad\nEmail: souvik.das@tamu.edu\nOffice: PETR 230 | PETR 246\nDownload CV · Google Scholar · GitHub\n\n\n\n\nNews\n\nDec 2025: Started working on ___.\nNov 2025: Paper accepted at ___."
+    "text": "I am a PhD student in Computer Science at Texas A&M University. My work is broadly in security, privacy-preserving machine learning, and high-performance computing. I am affiliated with the SPIES Lab and the HipGraph Lab.\nMy current research focuses on privacy-preserving Transformer inference (PPTI). I am interested in how secure inference workloads behave in practice, especially in terms of latency, communication overhead, ciphertext-operation costs, and hardware efficiency.\nResearch Interests: Privacy-Preserving Machine Learning, Cryptographic Inference Systems, Systems for Machine Learning, High-Performance Computing, Security and Privacy\nAdvisors:\nDr. Nitesh Saxena · Dr. Ariful Azad\nEmail: souvik.das@tamu.edu\nOffice: PETR 230 | PETR 246\nCV · Google Scholar · GitHub · LinkedIn"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "A short paragraph describing your research direction and what problems you solve."
+    "text": "My research lies at the intersection of security, high-performance computing, and machine learning systems, with a focus on privacy-preserving inference for modern AI models.\nI study how cryptographic techniques—such as homomorphic encryption (HE) and secure multi-party computation (MPC)—can be used to enable secure inference on sensitive data, while still maintaining practical performance and scalability.\nA key theme of my work is bridging theory and deployment: understanding not just whether secure inference is possible, but whether it is efficient, deployable, and systemically realistic. This includes analyzing trade-offs across: - latency and throughput\n- communication overhead\n- ciphertext packing and operation costs\n- hardware-aware performance constraints"
   },
   {
     "objectID": "research.html#research-overview",
     "href": "research.html#research-overview",
     "title": "Research",
     "section": "",
-    "text": "A short paragraph describing your research direction and what problems you solve."
+    "text": "My research lies at the intersection of security, high-performance computing, and machine learning systems, with a focus on privacy-preserving inference for modern AI models.\nI study how cryptographic techniques—such as homomorphic encryption (HE) and secure multi-party computation (MPC)—can be used to enable secure inference on sensitive data, while still maintaining practical performance and scalability.\nA key theme of my work is bridging theory and deployment: understanding not just whether secure inference is possible, but whether it is efficient, deployable, and systemically realistic. This includes analyzing trade-offs across: - latency and throughput\n- communication overhead\n- ciphertext packing and operation costs\n- hardware-aware performance constraints"
   },
   {
     "objectID": "research.html#projects",
     "href": "research.html#projects",
     "title": "Research",
     "section": "Projects",
-    "text": "Projects\n\nProject A\n\n1–2 lines on what it is\nYour contribution\nLink to paper/code (if any)\n\n\n\nProject B\n…"
+    "text": "Projects\n\nPrivacy-Preserving Transformer Inference (PPTI)\n\nInvestigating the systems and performance characteristics of secure Transformer inference pipelines.\nAnalyzing end-to-end latency, communication costs, and scaling behavior across different cryptographic designs.\nStudying how architectural choices (e.g., attention mechanisms, packing strategies) affect real-world deployment feasibility.\n\nOutcome: - Systematization of Knowledge (SoK) on evaluating privacy-preserving Transformer inference systems\n- Development of a regime-aware evaluation perspective for fair and realistic comparisons\n\n\n\nEncrypted ML Systems Prototyping (OpenFHE / CKKS)\n\nExploring how core ML operations behave under CKKS-based homomorphic encryption.\nImplementing and benchmarking encrypted primitives such as:\n\nlinear layers\n\nnormalization\n\napproximate nonlinear functions\n\n\nStudying trade-offs between accuracy, latency, and ciphertext operations.\n\nFocus: - Understanding practical bottlenecks in encrypted inference systems\n- Building intuition for system-level optimization opportunities\n\n\n\nContainer Security: Malicious Code Injection Detection\n\nDeveloped techniques for detecting malicious code injection in containerized environments.\nDesigned methods leveraging behavioral patterns and system-level monitoring.\nUndergraduate thesis work supported by RISE Research Grant (BUET)."
   },
   {
     "objectID": "index.html#news-1",
     "href": "index.html#news-1",
     "title": "Souvik Das",
     "section": "News",
-    "text": "News\n\nDec 2025: Working on ___.\nNov 2025: Submitted ___ to ___.\nOct 2025: Released code for ___."
+    "text": "News\n\nOct 2025: Elected Treasurer of the CSE Graduate Student Association (CSEGSA) at Texas A&M University.\nAug 2025: Started PhD in Computer Science at Texas A&M University.\n2025: Joined the SPIES × HipGraph research environment at Texas A&M.\nMay 2024: Paper on container security accepted at CLOSER 2024."
   },
   {
     "objectID": "index.html#selected-projects",
@@ -103,5 +103,138 @@
     "title": "Souvik Das",
     "section": "Selected Projects",
     "text": "Selected Projects\n\nProject A: one-line impact statement. Read more →\nProject B: one-line impact statement. Read more →"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Souvik Das",
+    "section": "",
+    "text": "I am a PhD student in Computer Science at Texas A&M University. My work is broadly in security, privacy-preserving machine learning, and high-performance computing. I am affiliated with the SPIES Lab and the HipGraph Lab.\nMy current research focuses on privacy-preserving Transformer inference (PPTI). I am interested in how secure inference workloads behave in practice, especially in terms of latency, communication overhead, ciphertext-operation costs, and hardware efficiency.\nResearch Interests: Privacy-Preserving Machine Learning, Cryptographic Inference Systems, Systems for Machine Learning, High-Performance Computing, Security and Privacy\nAdvisors:\nDr. Nitesh Saxena · Dr. Ariful Azad\nEmail: souvik.das@tamu.edu\nOffice: PETR 230 | PETR 246\nCV · Google Scholar · GitHub · LinkedIn"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Souvik Das",
+    "section": "News",
+    "text": "News\n\nOct 2025: Elected Treasurer of the CSE Graduate Students’ Association (CSEGSA) at Texas A&M University.\nAug 2025: Started PhD in Computer Science at Texas A&M University.\n2025: Joined the SPIES × HipGraph research environment at Texas A&M.\nMay 2024: Paper on container security accepted at CLOSER 2024."
+  },
+  {
+    "objectID": "index.html#research-summary",
+    "href": "index.html#research-summary",
+    "title": "Souvik Das",
+    "section": "Research Summary",
+    "text": "Research Summary\nMy recent work explores secure and privacy-preserving inference for Transformer models. I am particularly interested in the systems aspects of encrypted and cryptographic inference, including:\n\nperformance bottlenecks in privacy-preserving inference\ncommunication vs. computation tradeoffs\nhardware-aware evaluation of secure ML workloads\npractical deployment challenges in cryptographic machine learning systems"
+  },
+  {
+    "objectID": "research.html#research-areas",
+    "href": "research.html#research-areas",
+    "title": "Research",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nPrivacy-Preserving Machine Learning (PPML)\nCryptographic Inference Systems (HE, MPC)\nSystems for Machine Learning\nHigh-Performance Computing for AI\nSecurity & Privacy in AI Deployment"
+  },
+  {
+    "objectID": "research.html#ongoing-future-directions",
+    "href": "research.html#ongoing-future-directions",
+    "title": "Research",
+    "section": "Ongoing & Future Directions",
+    "text": "Ongoing & Future Directions\n\nHardware-aware optimization of cryptographic ML systems\n\nGPU-accelerated secure inference\n\nDeployment-oriented evaluation frameworks for PPML systems\n\nBridging systems + cryptography + ML for real-world secure AI"
+  },
+  {
+    "objectID": "research.html#links",
+    "href": "research.html#links",
+    "title": "Research",
+    "section": "Links",
+    "text": "Links\n\nGoogle Scholar\n\nGitHub"
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Md. Olid Hasan Bhuiyan, Souvik Das, Shafayat Hossain Majumder, Suryadipta Majumdar, and Md. Shohrab Hossain.\nOn Detecting Malicious Code Injection by Monitoring Multi-Level Container Activities.\nIn The 14th International Conference on Cloud Computing and Services Science (CLOSER), Angers, France, May 2–4, 2024.\nPaper · DOI"
+  },
+  {
+    "objectID": "publications.html#other-publications",
+    "href": "publications.html#other-publications",
+    "title": "Publications",
+    "section": "Other Publications",
+    "text": "Other Publications\n\n\nSabbir Hosen Pulok, Anusree Sen, Souvik Das, Farea Farhana Nishita, and MD. Mushfiquzzaman.\nModeling Sustainable Challenges to Waste Reduction in the Food Industry.\nSupply Chain Insider, 7(1), 2022.\n\nPaper"
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "",
+    "text": "Taught 300+ students over ~5 years, preparing them for highly competitive undergraduate admission exams (e.g., BUET and other top universities).\nCovered core subjects including Mathematics and Physics.\nDesigned structured lessons, practice problems, and exam strategies tailored to competitive testing environments.\nMentored students individually to strengthen conceptual understanding and performance under time constraints.\nStudents successfully admitted to top institutions including BUET and other leading universities in Bangladesh."
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching",
+    "section": "Teaching Interests",
+    "text": "Teaching Interests\n\nAlgorithms and Problem Solving\n\nSystems and Computer Science Fundamentals\n\nComputer Security\n\nHigh-Performance Computing"
+  },
+  {
+    "objectID": "teaching.html#academic-opportunities",
+    "href": "teaching.html#academic-opportunities",
+    "title": "Teaching",
+    "section": "Academic Opportunities",
+    "text": "Academic Opportunities\n\nOffered Lecturer positions at:\n\nBangladesh University of Engineering and Technology (BUET)\n\nUnited International University (UIU)\n\n\nChose to pursue PhD research instead."
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: souvik.das@tamu.edu\n\nOffice: PETR 230 / PETR 246\n\nAffiliation: Department of Computer Science & Engineering, Texas A&M University, 435 Nagle Street, College Station, TX 77843-3112"
+  },
+  {
+    "objectID": "contact.html#profiles",
+    "href": "contact.html#profiles",
+    "title": "Contact",
+    "section": "Profiles",
+    "text": "Profiles\n\nGoogle Scholar\nGitHub\n\nLinkedIn"
+  },
+  {
+    "objectID": "contact.html#availability",
+    "href": "contact.html#availability",
+    "title": "Contact",
+    "section": "Availability",
+    "text": "Availability\nI am open to research collaborations and discussions in:\n\nprivacy-preserving machine learning\n\nsystems for secure inference\n\nhigh-performance computing for AI\n\nFeel free to reach out via email."
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Service",
+    "section": "",
+    "text": "Treasurer, CSE Graduate Student Association (CSEGSA), Texas A&M University\n(Oct 2025 – Present)\n\nManaging budgeting and financial operations for graduate student programs\n\nSupporting organization of academic and community events\n\nCoordinating with university administration on funding and logistics"
+  },
+  {
+    "objectID": "service.html#leadership",
+    "href": "service.html#leadership",
+    "title": "Service",
+    "section": "",
+    "text": "Treasurer, CSE Graduate Student Association (CSEGSA), Texas A&M University\n(Oct 2025 – Present)\n\nManaging budgeting and financial operations for graduate student programs\n\nSupporting organization of academic and community events\n\nCoordinating with university administration on funding and logistics"
+  },
+  {
+    "objectID": "service.html#community-service",
+    "href": "service.html#community-service",
+    "title": "Service",
+    "section": "Community Service",
+    "text": "Community Service\n\nCo-Founder, Pothochari Foundation (Non-profit Organization)\n(2017 – 2022)\n\nOrganized fundraising initiatives to support flood-affected communities\n\nLed campaigns to distribute food, clothing, and essential supplies during major events (e.g., Eid)\n\nCoordinated volunteer efforts to provide aid to underserved and marginalized populations"
+  },
+  {
+    "objectID": "service.html#mentoring-teaching",
+    "href": "service.html#mentoring-teaching",
+    "title": "Service",
+    "section": "Mentoring & Teaching",
+    "text": "Mentoring & Teaching\n\nTaught and mentored 300+ students during undergraduate studies, preparing them for competitive university admission exams\n\nGuided students in developing strong foundations in mathematics and problem solving"
+  },
+  {
+    "objectID": "service.html#awards-honors",
+    "href": "service.html#awards-honors",
+    "title": "Service",
+    "section": "Awards & Honors",
+    "text": "Awards & Honors\n\nDean’s Award for Academic Excellence, Bangladesh University of Engineering and Technology (BUET)\n\nUniversity Merit Scholarship, BUET (3× recipient)\n\nRISE Research Grant, BUET\n\nNational Science Olympiad, Winner (3×)\n\nNational Physics Olympiad, Winner (2×)\n\nNational Math Olympiad, 1st Runner-up"
   }
 ]

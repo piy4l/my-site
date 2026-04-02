@@ -13,20 +13,44 @@ toc: false
 :::
 
 ::: {.column width="65%"}
-### About
 
-I’m a PhD student at **Texas A&M University** working on the intersection of **Security and High-Performance Computing**.
+## About
 
-**Interests:** High-Performance Computing, Privacy & Security, Artificial Intelligence  
-**Advisors:** Dr. Nitesh Saxena & Dr. Ariful Azad  
+I am a PhD student in **Computer Science at Texas A&M University**. My work is broadly in **security, privacy-preserving machine learning, and high-performance computing**. I am affiliated with the [SPIES Lab](https://spies.engr.tamu.edu) and the [HipGraph Lab](#).
+
+
+My current research focuses on **privacy-preserving Transformer inference (PPTI)**. I am interested in how secure inference workloads behave in practice, especially in terms of **latency, communication overhead, ciphertext-operation costs, and hardware efficiency**.
+
+**Research Interests:** Privacy-Preserving Machine Learning, Cryptographic Inference Systems, Systems for Machine Learning, High-Performance Computing, Security and Privacy  
+
+**Advisors:**  
+[Dr. Nitesh Saxena](https://engineering.tamu.edu/cse/profiles/Saxena-Nitesh.html) · 
+[Dr. Ariful Azad](https://engineering.tamu.edu/cse/profiles/azad-ariful.html)
+
 **Email:** [souvik.das@tamu.edu](mailto:souvik.das@tamu.edu)  
 **Office:** PETR 230 | PETR 246  
 
-[Download CV](cv.qmd) · [Google Scholar](https://scholar.google.com/citations?user=7MV40LIAAAAJ&hl=en) · [GitHub](https://github.com/piy41)
-:::
+[CV](cv.qmd) ·
+[Google Scholar](https://scholar.google.com/citations?user=7MV40LIAAAAJ&hl=en) ·
+[GitHub](https://github.com/piy4l) ·
+[LinkedIn](https://www.linkedin.com/in/souvik-das-048479153/)
 
 :::
 
-### News
-- **Dec 2025:** Started working on ___.
-- **Nov 2025:** Paper accepted at ___.
+:::
+
+## Research Summary
+
+My recent work explores secure and privacy-preserving inference for Transformer models. I am particularly interested in the systems aspects of encrypted and cryptographic inference, including:
+
+- performance bottlenecks in privacy-preserving inference
+- communication vs. computation tradeoffs
+- hardware-aware evaluation of secure ML workloads
+- practical deployment challenges in cryptographic machine learning systems
+
+## News
+
+- **Oct 2025:** Elected **Treasurer** of the **CSE Graduate Students' Association (CSEGSA)** at Texas A\&M University.
+- **Aug 2025:** Started PhD in Computer Science at Texas A&M University.
+- **2025:** Joined the SPIES × HipGraph research environment at Texas A&M.
+- **May 2024:** Paper on container security accepted at **CLOSER 2024**.

@@ -1,10 +1,41 @@
 ---
 title: "Teaching"
+toc: true
 ---
 
-## Teaching
-- TA, Course Name (Semester Year)
-- Guest lecture: Topic (Semester Year)
+## Teaching Experience
+
+### Independent Instructor — University Admission Preparation (Bangladesh)
+
+- Taught **300+ students** over ~5 years, preparing them for highly competitive undergraduate admission exams (e.g., BUET and other top universities).
+- Covered core subjects including **Mathematics and Physics**.
+- Designed structured lessons, practice problems, and exam strategies tailored to competitive testing environments.
+- Mentored students individually to strengthen conceptual understanding and performance under time constraints.
+- Students successfully admitted to top institutions including BUET and other leading universities in Bangladesh.
+
+---
 
 ## Mentoring
-- Student Name — project/topic
+
+- Provided one-on-one academic guidance to students on:
+  - problem-solving strategies  
+  - exam preparation techniques  
+  - building strong fundamentals in quantitative subjects  
+
+---
+
+## Teaching Interests
+
+- Algorithms and Problem Solving  
+- Systems and Computer Science Fundamentals  
+- Computer Security  
+- High-Performance Computing  
+
+---
+
+## Academic Opportunities
+
+- Offered **Lecturer positions** at:
+  - Bangladesh University of Engineering and Technology (BUET)  
+  - United International University (UIU)  
+- Chose to pursue PhD research instead.

@@ -1,15 +1,79 @@
 ---
 title: "Research"
+toc: true
 ---
 
 ## Research Overview
-A short paragraph describing your research direction and what problems you solve.
+
+My research lies at the intersection of **security, high-performance computing, and machine learning systems**, with a focus on **privacy-preserving inference for modern AI models**.
+
+I study how cryptographic techniques—such as **homomorphic encryption (HE)** and **secure multi-party computation (MPC)**—can be used to enable secure inference on sensitive data, while still maintaining **practical performance and scalability**.
+
+A key theme of my work is **bridging theory and deployment**: understanding not just whether secure inference is possible, but whether it is **efficient, deployable, and systemically realistic**. This includes analyzing trade-offs across:
+- latency and throughput  
+- communication overhead  
+- ciphertext packing and operation costs  
+- hardware-aware performance constraints  
+
+---
+
+## Research Areas
+
+- **Privacy-Preserving Machine Learning (PPML)**
+- **Cryptographic Inference Systems (HE, MPC)**
+- **Systems for Machine Learning**
+- **High-Performance Computing for AI**
+- **Security & Privacy in AI Deployment**
+
+---
 
 ## Projects
-### Project A
-- 1–2 lines on what it is
-- Your contribution
-- Link to paper/code (if any)
 
-### Project B
-...
+### Privacy-Preserving Transformer Inference (PPTI)
+
+- Investigating the **systems and performance characteristics** of secure Transformer inference pipelines.
+- Analyzing **end-to-end latency, communication costs, and scaling behavior** across different cryptographic designs.
+- Studying how architectural choices (e.g., attention mechanisms, packing strategies) affect real-world deployment feasibility.
+
+**Outcome:**
+- Systematization of Knowledge (SoK) on evaluating privacy-preserving Transformer inference systems  
+- Development of a **regime-aware evaluation perspective** for fair and realistic comparisons  
+
+---
+
+### Encrypted ML Systems Prototyping (OpenFHE / CKKS)
+
+- Exploring how core ML operations behave under **CKKS-based homomorphic encryption**.
+- Implementing and benchmarking **encrypted primitives** such as:
+  - linear layers  
+  - normalization  
+  - approximate nonlinear functions  
+- Studying trade-offs between **accuracy, latency, and ciphertext operations**.
+
+**Focus:**
+- Understanding **practical bottlenecks** in encrypted inference systems  
+- Building intuition for **system-level optimization opportunities**
+
+---
+
+### Container Security: Malicious Code Injection Detection
+
+- Developed techniques for detecting **malicious code injection in containerized environments**.
+- Designed methods leveraging **behavioral patterns and system-level monitoring**.
+- Undergraduate thesis work supported by **RISE Research Grant (BUET)**.
+
+---
+
+## Ongoing & Future Directions
+
+- Hardware-aware optimization of cryptographic ML systems  
+- GPU-accelerated secure inference  
+- Deployment-oriented evaluation frameworks for PPML systems  
+- Bridging **systems + cryptography + ML** for real-world secure AI  
+
+---
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=7MV40LIAAAAJ&hl=en)  
+- [GitHub](https://github.com/piy4l)

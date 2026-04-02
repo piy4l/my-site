@@ -2,10 +2,31 @@
 title: "Contact"
 ---
 
-- **Email:** you@tamu.edu  
-- **Office:** Building, Room  
-- **Address:** Department, Texas A&M University
+## Contact
 
-### Links
-- GitHub: https://github.com/YOUR-USERNAME  
-- Scholar: https://scholar.google.com/...
+- **Email:** [souvik.das@tamu.edu](mailto:souvik.das@tamu.edu)  
+- **Office:** PETR 230 / PETR 246  
+- **Affiliation:** Department of Computer Science & Engineering,
+Texas A&M University,
+435 Nagle Street,
+College Station, TX 77843-3112  
+
+---
+
+## Profiles
+
+- [**Google Scholar**](https://scholar.google.com/citations?user=7MV40LIAAAAJ&hl=en) 
+- [**GitHub**](https://github.com/piy4l)  
+- [**LinkedIn**](https://www.linkedin.com/in/souvik-das-048479153/) 
+
+---
+
+## Availability
+
+I am open to research collaborations and discussions in:
+
+- privacy-preserving machine learning  
+- systems for secure inference  
+- high-performance computing for AI  
+
+Feel free to reach out via email.

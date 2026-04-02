@@ -1,9 +1,19 @@
 ---
 title: "Publications"
+toc: true
 ---
 
-## Preprints
-- **Your Name**, Coauthor. *Paper Title.* arXiv, 2025. [PDF](#) · [Code](#)
+## Conference Papers
 
-## Conferences / Journals
-- **Your Name**, Coauthor. *Paper Title.* Venue, Year. [DOI](#)
+- Md. Olid Hasan Bhuiyan, **Souvik Das**, Shafayat Hossain Majumder, Suryadipta Majumdar, and Md. Shohrab Hossain.  
+  *On Detecting Malicious Code Injection by Monitoring Multi-Level Container Activities.*  
+  In **The 14th International Conference on Cloud Computing and Services Science (CLOSER)**, Angers, France, May 2–4, 2024.  
+  [Paper](https://www.scitepress.org/Papers/2024/125094/125094.pdf) · [DOI](https://www.scitepress.org/Link.aspx?doi=10.5220/0012509400003711)
+
+## Other Publications
+
+- MD. Sabbir Hosen Pulok, Anusree Sen, **Souvik Das**, Farea Farhana Nishita, and MD. Mushfiquzzaman.  
+  *Modeling Sustainable Challenges to Waste Reduction in the Food Industry.*  
+  **Supply Chain Insider**, 7(1), 2022.
+  
+  [Paper](https://supplychaininsider.org/ojs/index.php/home/article/view/9)
