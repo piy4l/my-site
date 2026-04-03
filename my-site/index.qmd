@@ -2,13 +2,23 @@
 title: "Souvik Das"
 page-layout: full
 toc: false
+body-classes: home-page
 ---
 
 ::: {.columns}
 
 ::: {.column width="35%"}
+# Souvik Das {.home-name}
+
 ::: {.headshot-frame}
 ![](images/headshot.jpg){.headshot-img}
+:::
+
+::: {.home-links}
+[CV](cv.qmd) ·
+[Google Scholar](https://scholar.google.com/citations?user=7MV40LIAAAAJ&hl=en) ·
+[GitHub](https://github.com/piy4l) ·
+[LinkedIn](https://www.linkedin.com/in/souvik-das-048479153/)
 :::
 :::
 
@@ -29,11 +39,6 @@ My current research focuses on **privacy-preserving Transformer inference (PPTI)
 
 **Email:** [souvik.das@tamu.edu](mailto:souvik.das@tamu.edu)  
 **Office:** PETR 230 | PETR 246  
-
-[CV](cv.qmd) ·
-[Google Scholar](https://scholar.google.com/citations?user=7MV40LIAAAAJ&hl=en) ·
-[GitHub](https://github.com/piy4l) ·
-[LinkedIn](https://www.linkedin.com/in/souvik-das-048479153/)
 
 :::
 
