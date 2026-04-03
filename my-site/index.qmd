@@ -26,7 +26,7 @@ body-classes: home-page
 
 ## About
 
-I am a PhD student in **Computer Science at Texas A&M University**. My work is broadly in **security, privacy-preserving machine learning, and high-performance computing**. I am affiliated with the [SPIES Lab](https://spies.engr.tamu.edu) and the [HipGraph Lab](#).
+I am a 1st year PhD student in **Computer Science at Texas A&M University**. My work is broadly in **security, privacy-preserving machine learning, and high-performance computing**. I am affiliated with the [SPIES Lab](https://spies.engr.tamu.edu) and the [HipGraph Lab](#).
 
 
 My current research focuses on **privacy-preserving Transformer inference (PPTI)**. I am interested in how secure inference workloads behave in practice, especially in terms of **latency, communication overhead, ciphertext-operation costs, and hardware efficiency**.
