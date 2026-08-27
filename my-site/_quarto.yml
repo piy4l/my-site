@@ -12,6 +12,8 @@ website:
         href: index.qmd
       - text: Research
         href: research.qmd
+      - text: Blog
+        href: blog.qmd
       - text: Publications
         href: publications.qmd
       - text: Teaching

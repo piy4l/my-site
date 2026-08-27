@@ -5,7 +5,7 @@ title: "Contact"
 ## Contact
 
 - **Email:** [souvik.das@tamu.edu](mailto:souvik.das@tamu.edu)  
-- **Office:** PETR 230 / PETR 246  
+- **Office:** PETR 246  
 - **Affiliation:** Department of Computer Science & Engineering,
 Texas A&M University,
 435 Nagle Street,

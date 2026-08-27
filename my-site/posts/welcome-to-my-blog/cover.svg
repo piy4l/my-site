@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b2f4b"/>
+      <stop offset="55%" stop-color="#20406e"/>
+      <stop offset="100%" stop-color="#2780e3"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M 46 0 L 0 0 0 46" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <!-- abstract network / lock motif nodding to security & ML systems -->
+  <g stroke="#9fc6f5" stroke-opacity="0.55" stroke-width="1.5" fill="none">
+    <line x1="120" y1="150" x2="260" y2="230"/>
+    <line x1="260" y1="230" x2="230" y2="360"/>
+    <line x1="260" y1="230" x2="400" y2="190"/>
+    <line x1="400" y1="190" x2="470" y2="320"/>
+    <line x1="230" y1="360" x2="380" y2="430"/>
+    <line x1="380" y1="430" x2="470" y2="320"/>
+    <line x1="900" y1="480" x2="1030" y2="410"/>
+    <line x1="1030" y1="410" x2="1080" y2="270"/>
+    <line x1="1030" y1="410" x2="960" y2="530"/>
+    <line x1="1080" y1="270" x2="960" y2="200"/>
+  </g>
+  <g fill="#cfe4fb">
+    <circle cx="120" cy="150" r="5"/>
+    <circle cx="260" cy="230" r="6"/>
+    <circle cx="230" cy="360" r="4.5"/>
+    <circle cx="400" cy="190" r="5"/>
+    <circle cx="470" cy="320" r="6"/>
+    <circle cx="380" cy="430" r="4.5"/>
+    <circle cx="900" cy="480" r="5"/>
+    <circle cx="1030" cy="410" r="6"/>
+    <circle cx="1080" cy="270" r="4.5"/>
+    <circle cx="960" cy="530" r="5"/>
+    <circle cx="960" cy="200" r="4.5"/>
+  </g>
+
+  <!-- simple padlock icon -->
+  <g transform="translate(560, 150)" fill="#ffffff" fill-opacity="0.9">
+    <rect x="10" y="34" width="60" height="46" rx="8"/>
+    <path d="M 20 34 L 20 22 A 20 20 0 0 1 60 22 L 60 34" fill="none" stroke="#ffffff" stroke-width="9"/>
+  </g>
+
+  <text x="600" y="330" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff" letter-spacing="0.5">
+    Welcome to my Blog
+  </text>
+  <text x="600" y="378" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#cfe4fb">
+    notes on security, privacy-preserving ML, and systems research
+  </text>
+  <text x="600" y="440" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#9fc6f5" letter-spacing="1">
+    SOUVIK DAS
+  </text>
+</svg>

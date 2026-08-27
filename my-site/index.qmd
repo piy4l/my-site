@@ -26,7 +26,7 @@ body-classes: home-page
 
 ## About
 
-I am a 1st year PhD student in **Computer Science at Texas A&M University**. My work is broadly in **security, privacy-preserving machine learning, and high-performance computing**. I am affiliated with the [SPIES Lab](https://spies.engr.tamu.edu) and the [HipGraph Lab](#).
+I am a 2nd year PhD student in **Computer Science at Texas A&M University**. My work is broadly in **security, privacy-preserving machine learning, and high-performance computing**. I am affiliated with the [SPIES Lab](https://spies.engr.tamu.edu) and the [HipGraph Lab](#).
 
 
 My current research focuses on **privacy-preserving Transformer inference (PPTI)**. I am interested in how secure inference workloads behave in practice, especially in terms of **latency, communication overhead, ciphertext-operation costs, and hardware efficiency**.
@@ -38,7 +38,7 @@ My current research focuses on **privacy-preserving Transformer inference (PPTI)
 [Dr. Ariful Azad](https://engineering.tamu.edu/cse/profiles/azad-ariful.html)
 
 **Email:** [souvik.das@tamu.edu](mailto:souvik.das@tamu.edu)  
-**Office:** PETR 230 | PETR 246  
+**Office:** PETR 246  
 
 :::
 
@@ -55,6 +55,7 @@ My recent work explores secure and privacy-preserving inference for Transformer 
 
 ## News
 
+- **Aug 2026:** Attended **ByteBoost 2.0 Summer Workshop**
 - **Oct 2025:** Elected **Treasurer** of the **CSE Graduate Students' Association (CSEGSA)** at Texas A\&M University.
 - **Aug 2025:** Started PhD in Computer Science at Texas A&M University.
 - **2025:** Joined the SPIES × HipGraph research environment at Texas A&M.

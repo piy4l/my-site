@@ -1,0 +1,17 @@
+---
+title: "Welcome to my blog"
+description: "Kicking off a space for research notes, project updates, and occasional writeups."
+date: 2026-08-26
+categories: [meta]
+image: cover.svg
+---
+
+![](cover.svg){fig-align="center" width=100%}
+
+This is the first post on my new blog. I'll use this space to share:
+
+- notes on privacy-preserving machine learning and cryptographic inference
+- updates on ongoing research projects
+- writeups on tools, papers, or systems I find interesting
+
+More posts coming soon.

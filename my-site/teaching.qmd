@@ -37,5 +37,6 @@ toc: true
 
 - Offered **Lecturer positions** at:
   - Bangladesh University of Engineering and Technology (BUET)  
-  - United International University (UIU)  
+  - United International University (UIU)
+  - Northern University Bangladesh
 - Chose to pursue PhD research instead.
