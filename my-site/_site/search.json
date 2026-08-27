@@ -1,45 +1,59 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Download CV (PDF)"
+    "text": "Welcome to my blog\n\n\n\nmeta\n\n\n\nKicking off a space for research notes, project updates, and occasional writeups.\n\n\n\n\n\nAug 26, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Md. Olid Hasan Bhuiyan, Souvik Das, Shafayat Hossain Majumder, Suryadipta Majumdar, and Md. Shohrab Hossain.\nOn Detecting Malicious Code Injection by Monitoring Multi-Level Container Activities.\nIn The 14th International Conference on Cloud Computing and Services Science (CLOSER), Angers, France, May 2–4, 2024.\nPaper · DOI"
+    "text": "About this site"
   },
   {
-    "objectID": "publications.html#conference-papers",
-    "href": "publications.html#conference-papers",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Souvik Das",
     "section": "",
-    "text": "Md. Olid Hasan Bhuiyan, Souvik Das, Shafayat Hossain Majumder, Suryadipta Majumdar, and Md. Shohrab Hossain.\nOn Detecting Malicious Code Injection by Monitoring Multi-Level Container Activities.\nIn The 14th International Conference on Cloud Computing and Services Science (CLOSER), Angers, France, May 2–4, 2024.\nPaper · DOI"
+    "text": "CV · Google Scholar · GitHub · LinkedIn\n\n\n\n\n\nI am a 2nd year PhD student in Computer Science at Texas A&M University. My work is broadly in security, privacy-preserving machine learning, and high-performance computing. I am affiliated with the SPIES Lab and the HipGraph Lab.\nMy current research focuses on privacy-preserving Transformer inference (PPTI). I am interested in how secure inference workloads behave in practice, especially in terms of latency, communication overhead, ciphertext-operation costs, and hardware efficiency.\nResearch Interests: Privacy-Preserving Machine Learning, Cryptographic Inference Systems, Systems for Machine Learning, High-Performance Computing, Security and Privacy\nAdvisors:\nDr. Nitesh Saxena · Dr. Ariful Azad\nEmail: souvik.das@tamu.edu\nOffice: PETR 246"
   },
   {
-    "objectID": "publications.html#other-publications",
-    "href": "publications.html#other-publications",
-    "title": "Publications",
-    "section": "Other Publications",
-    "text": "Other Publications\n\n\nSabbir Hosen Pulok, Anusree Sen, Souvik Das, Farea Farhana Nishita, and MD. Mushfiquzzaman.\nModeling Sustainable Challenges to Waste Reduction in the Food Industry.\nSupply Chain Insider, 7(1), 2022.\n\nPaper"
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Souvik Das",
+    "section": "",
+    "text": "I am a 2nd year PhD student in Computer Science at Texas A&M University. My work is broadly in security, privacy-preserving machine learning, and high-performance computing. I am affiliated with the SPIES Lab and the HipGraph Lab.\nMy current research focuses on privacy-preserving Transformer inference (PPTI). I am interested in how secure inference workloads behave in practice, especially in terms of latency, communication overhead, ciphertext-operation costs, and hardware efficiency.\nResearch Interests: Privacy-Preserving Machine Learning, Cryptographic Inference Systems, Systems for Machine Learning, High-Performance Computing, Security and Privacy\nAdvisors:\nDr. Nitesh Saxena · Dr. Ariful Azad\nEmail: souvik.das@tamu.edu\nOffice: PETR 246"
+  },
+  {
+    "objectID": "index.html#research-summary",
+    "href": "index.html#research-summary",
+    "title": "Souvik Das",
+    "section": "Research Summary",
+    "text": "Research Summary\nMy recent work explores secure and privacy-preserving inference for Transformer models. I am particularly interested in the systems aspects of encrypted and cryptographic inference, including:\n\nperformance bottlenecks in privacy-preserving inference\ncommunication vs. computation tradeoffs\nhardware-aware evaluation of secure ML workloads\npractical deployment challenges in cryptographic machine learning systems"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Souvik Das",
+    "section": "News",
+    "text": "News\n\nAug 2026: Attended ByteBoost 2.0 Summer Workshop\nOct 2025: Elected Treasurer of the CSE Graduate Students’ Association (CSEGSA) at Texas A&M University.\nAug 2025: Started PhD in Computer Science at Texas A&M University.\n2025: Joined the SPIES × HipGraph research environment at Texas A&M.\nMay 2024: Paper on container security accepted at CLOSER 2024."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Email: souvik.das@tamu.edu\n\nOffice: PETR 230 / PETR 246\n\nAffiliation: Department of Computer Science & Engineering, Texas A&M University, 435 Nagle Street, College Station, TX 77843-3112"
+    "text": "Email: souvik.das@tamu.edu\n\nOffice: PETR 246\n\nAffiliation: Department of Computer Science & Engineering, Texas A&M University, 435 Nagle Street, College Station, TX 77843-3112"
   },
   {
     "objectID": "contact.html#contact",
     "href": "contact.html#contact",
     "title": "Contact",
     "section": "",
-    "text": "Email: souvik.das@tamu.edu\n\nOffice: PETR 230 / PETR 246\n\nAffiliation: Department of Computer Science & Engineering, Texas A&M University, 435 Nagle Street, College Station, TX 77843-3112"
+    "text": "Email: souvik.das@tamu.edu\n\nOffice: PETR 246\n\nAffiliation: Department of Computer Science & Engineering, Texas A&M University, 435 Nagle Street, College Station, TX 77843-3112"
   },
   {
     "objectID": "contact.html#profiles",
@@ -130,7 +144,7 @@
     "href": "teaching.html#academic-opportunities",
     "title": "Teaching",
     "section": "Academic Opportunities",
-    "text": "Academic Opportunities\n\nOffered Lecturer positions at:\n\nBangladesh University of Engineering and Technology (BUET)\n\nUnited International University (UIU)\n\n\nChose to pursue PhD research instead."
+    "text": "Academic Opportunities\n\nOffered Lecturer positions at:\n\nBangladesh University of Engineering and Technology (BUET)\n\nUnited International University (UIU)\nNorthern University Bangladesh\n\nChose to pursue PhD research instead."
   },
   {
     "objectID": "service.html",
@@ -168,38 +182,38 @@
     "text": "Awards & Honors\n\nDean’s Award for Academic Excellence, Bangladesh University of Engineering and Technology (BUET)\n\nUniversity Merit Scholarship, BUET (3× recipient)\n\nRISE Research Grant, BUET\n\nNational Science Olympiad, Winner (3×)\n\nNational Physics Olympiad, Winner (2×)\n\nNational Math Olympiad, 1st Runner-up"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Souvik Das",
+    "objectID": "posts/welcome-to-my-blog/index.html",
+    "href": "posts/welcome-to-my-blog/index.html",
+    "title": "Welcome to my blog",
     "section": "",
-    "text": "I am a PhD student in Computer Science at Texas A&M University. My work is broadly in security, privacy-preserving machine learning, and high-performance computing. I am affiliated with the SPIES Lab and the HipGraph Lab.\nMy current research focuses on privacy-preserving Transformer inference (PPTI). I am interested in how secure inference workloads behave in practice, especially in terms of latency, communication overhead, ciphertext-operation costs, and hardware efficiency.\nResearch Interests: Privacy-Preserving Machine Learning, Cryptographic Inference Systems, Systems for Machine Learning, High-Performance Computing, Security and Privacy\nAdvisors:\nDr. Nitesh Saxena · Dr. Ariful Azad\nEmail: souvik.das@tamu.edu\nOffice: PETR 230 | PETR 246\nCV · Google Scholar · GitHub · LinkedIn"
+    "text": "This is the first post on my new blog. I’ll use this space to share:\n\nnotes on privacy-preserving machine learning and cryptographic inference\nupdates on ongoing research projects\nwriteups on tools, papers, or systems I find interesting\n\nMore posts coming soon."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Souvik Das",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "I am a PhD student in Computer Science at Texas A&M University. My work is broadly in security, privacy-preserving machine learning, and high-performance computing. I am affiliated with the SPIES Lab and the HipGraph Lab.\nMy current research focuses on privacy-preserving Transformer inference (PPTI). I am interested in how secure inference workloads behave in practice, especially in terms of latency, communication overhead, ciphertext-operation costs, and hardware efficiency.\nResearch Interests: Privacy-Preserving Machine Learning, Cryptographic Inference Systems, Systems for Machine Learning, High-Performance Computing, Security and Privacy\nAdvisors:\nDr. Nitesh Saxena · Dr. Ariful Azad\nEmail: souvik.das@tamu.edu\nOffice: PETR 230 | PETR 246\nCV · Google Scholar · GitHub · LinkedIn"
+    "text": "Md. Olid Hasan Bhuiyan, Souvik Das, Shafayat Hossain Majumder, Suryadipta Majumdar, and Md. Shohrab Hossain.\nOn Detecting Malicious Code Injection by Monitoring Multi-Level Container Activities.\nIn The 14th International Conference on Cloud Computing and Services Science (CLOSER), Angers, France, May 2–4, 2024.\nPaper · DOI"
   },
   {
-    "objectID": "index.html#research-summary",
-    "href": "index.html#research-summary",
-    "title": "Souvik Das",
-    "section": "Research Summary",
-    "text": "Research Summary\nMy recent work explores secure and privacy-preserving inference for Transformer models. I am particularly interested in the systems aspects of encrypted and cryptographic inference, including:\n\nperformance bottlenecks in privacy-preserving inference\ncommunication vs. computation tradeoffs\nhardware-aware evaluation of secure ML workloads\npractical deployment challenges in cryptographic machine learning systems"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Souvik Das",
-    "section": "News",
-    "text": "News\n\nOct 2025: Elected Treasurer of the CSE Graduate Students’ Association (CSEGSA) at Texas A&M University.\nAug 2025: Started PhD in Computer Science at Texas A&M University.\n2025: Joined the SPIES × HipGraph research environment at Texas A&M.\nMay 2024: Paper on container security accepted at CLOSER 2024."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
     "section": "",
-    "text": "About this site"
+    "text": "Md. Olid Hasan Bhuiyan, Souvik Das, Shafayat Hossain Majumder, Suryadipta Majumdar, and Md. Shohrab Hossain.\nOn Detecting Malicious Code Injection by Monitoring Multi-Level Container Activities.\nIn The 14th International Conference on Cloud Computing and Services Science (CLOSER), Angers, France, May 2–4, 2024.\nPaper · DOI"
+  },
+  {
+    "objectID": "publications.html#other-publications",
+    "href": "publications.html#other-publications",
+    "title": "Publications",
+    "section": "Other Publications",
+    "text": "Other Publications\n\n\nSabbir Hosen Pulok, Anusree Sen, Souvik Das, Farea Farhana Nishita, and MD. Mushfiquzzaman.\nModeling Sustainable Challenges to Waste Reduction in the Food Industry.\nSupply Chain Insider, 7(1), 2022.\n\nPaper"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)"
   }
 ]
