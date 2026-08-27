@@ -1,43 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://piy4l.github.io/blog.html</loc>
-    <lastmod>2026-08-26T20:21:29.100Z</lastmod>
-  </url>
-  <url>
-    <loc>https://piy4l.github.io/about.html</loc>
-    <lastmod>2026-08-26T20:06:41.331Z</lastmod>
-  </url>
-  <url>
-    <loc>https://piy4l.github.io/index.html</loc>
-    <lastmod>2026-08-26T20:15:11.615Z</lastmod>
-  </url>
-  <url>
-    <loc>https://piy4l.github.io/contact.html</loc>
-    <lastmod>2026-08-26T20:07:43.381Z</lastmod>
-  </url>
-  <url>
-    <loc>https://piy4l.github.io/research.html</loc>
-    <lastmod>2026-08-26T20:06:41.334Z</lastmod>
-  </url>
-  <url>
-    <loc>https://piy4l.github.io/teaching.html</loc>
-    <lastmod>2026-08-26T20:17:03.408Z</lastmod>
-  </url>
-  <url>
-    <loc>https://piy4l.github.io/service.html</loc>
-    <lastmod>2026-08-26T20:06:41.334Z</lastmod>
-  </url>
-  <url>
-    <loc>https://piy4l.github.io/posts/welcome-to-my-blog/index.html</loc>
-    <lastmod>2026-08-26T20:28:27.505Z</lastmod>
+    <loc>https://piy4l.github.io/cv.html</loc>
+    <lastmod>2026-04-02T19:27:34.073Z</lastmod>
   </url>
   <url>
     <loc>https://piy4l.github.io/publications.html</loc>
-    <lastmod>2026-08-26T20:06:41.334Z</lastmod>
+    <lastmod>2026-04-02T19:27:34.078Z</lastmod>
   </url>
   <url>
-    <loc>https://piy4l.github.io/cv.html</loc>
-    <lastmod>2026-08-26T20:06:41.331Z</lastmod>
+    <loc>https://piy4l.github.io/contact.html</loc>
+    <lastmod>2026-04-02T19:27:34.073Z</lastmod>
+  </url>
+  <url>
+    <loc>https://piy4l.github.io/research.html</loc>
+    <lastmod>2026-04-02T19:27:34.078Z</lastmod>
+  </url>
+  <url>
+    <loc>https://piy4l.github.io/teaching.html</loc>
+    <lastmod>2026-04-02T19:27:34.078Z</lastmod>
+  </url>
+  <url>
+    <loc>https://piy4l.github.io/service.html</loc>
+    <lastmod>2026-04-02T19:27:34.078Z</lastmod>
+  </url>
+  <url>
+    <loc>https://piy4l.github.io/index.html</loc>
+    <lastmod>2026-04-02T19:27:34.078Z</lastmod>
+  </url>
+  <url>
+    <loc>https://piy4l.github.io/about.html</loc>
+    <lastmod>2026-04-02T19:27:34.073Z</lastmod>
   </url>
 </urlset>
