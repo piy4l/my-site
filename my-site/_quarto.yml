@@ -35,6 +35,7 @@ website:
         href: https://www.linkedin.com/in/souvik-das-048479153/
   page-footer:
     left: "©2026 Souvik Das"
+    center: '<img src="https://komarev.com/ghpvc/?username=souvikdas-tamu-site&label=visitors&color=2780e3&style=flat" alt="visitor count"/>'
     right: "Built with Quarto"
 
 format:
